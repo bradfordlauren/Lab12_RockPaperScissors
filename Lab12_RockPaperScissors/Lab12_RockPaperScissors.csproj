@@ -49,7 +49,6 @@
     <Compile Include="PlayerRock.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="RashamboApp.cs" />
     <Compile Include="Roshambo.cs" />
     <Compile Include="Validator.cs" />
   </ItemGroup>
